@@ -3,6 +3,15 @@
 
 ---
 
+## 💡 Sobre Mim
+
+- Foco em código limpo, acessibilidade e arquitetura escalável  
+- Busco sempre melhorar habilidades em backend, frontend e usabilidade  
+- Adoro colaborar em projetos open-source e aprender com a comunidade  
+- Objetivo: gerar impacto através da tecnologia 🌱
+
+---
+
 ## 📊 Estatísticas GitHub
 
 <div align="left">
@@ -71,15 +80,6 @@
 - [Rotas Componentes](https://github.com/skynetsites/rotas-componentes)
 - [Projeto Digital Store (Front/Store)](https://github.com/skynetsites/projeto-digital-store)
 - [Projeto Backend](https://github.com/skynetsites/projeto-backend)
-
----
-
-## 💡 Sobre Mim
-
-- Foco em código limpo, acessibilidade e arquitetura escalável  
-- Busco sempre melhorar habilidades em backend, frontend e usabilidade  
-- Adoro colaborar em projetos open-source e aprender com a comunidade  
-- Objetivo: gerar impacto através da tecnologia 🌱  
 
 ---
 
