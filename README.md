@@ -58,13 +58,13 @@ Busco evolução constante e projetos que gerem impacto real.
 
 <div align="center">
   <a href="https://github.com/skynetsites/hackastore">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=hackastore&theme=radical&hide_border=true"/>
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=hackastore&theme=radical&hide_border=true"/>
   </a>
   <a href="https://github.com/skynetsites/pagegenai">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=pagegenai&theme=radical&hide_border=true"/>
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=pagegenai&theme=radical&hide_border=true"/>
   </a>
   <a href="https://github.com/skynetsites/cidades-resilientes">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=cidades-resilientes&theme=radical&hide_border=true"/>
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=cidades-resilientes&theme=radical&hide_border=true"/>
   </a>
 </div>
 
@@ -73,9 +73,9 @@ Busco evolução constante e projetos que gerem impacto real.
 ## Atividade
 
 <p align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical&count_private=true"/>
-  <img height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=skynetsites&theme=radical"/>
-  <img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skynetsites&layout=compact&theme=radical"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical&count_private=true"/>
+  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=skynetsites&theme=radical"/>
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skynetsites&layout=compact&theme=radical"/>
 </p>
 
 ---
