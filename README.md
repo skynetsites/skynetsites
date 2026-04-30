@@ -58,13 +58,13 @@ Busco evolução constante e projetos que gerem impacto real.
 
 <div align="center">
   <a href="https://github.com/skynetsites/hackastore">
-    <img height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=hackastore&theme=radical&hide_border=true"/>
+    <img height="103" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=hackastore&theme=radical&hide_border=true"/>
   </a>
   <a href="https://github.com/skynetsites/pagegenai">
-    <img height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=pagegenai&theme=radical&hide_border=true"/>
+    <img height="103" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=pagegenai&theme=radical&hide_border=true"/>
   </a>
   <a href="https://github.com/skynetsites/cidades-resilientes">
-    <img height="105" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=cidades-resilientes&theme=radical&hide_border=true"/>
+    <img height="103" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=cidades-resilientes&theme=radical&hide_border=true"/>
   </a>
 </div>
 
