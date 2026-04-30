@@ -1,26 +1,32 @@
-# Olá, sou Isaias Oliveira
+# 👋 Olá, sou Isaias Oliveira
 
-Full Stack Developer | React • Node.js • APIs • Python • Data & AI
+Full Stack Developer | Sistemas Web • APIs • Arquitetura • React • Node.js • Python • Data & AI
 
 ---
 
-## Sobre
+## 🚀 Sobre Mim
 
-Atuo com desenvolvimento web há mais de 12 anos, com experiência que vai de web design à construção de aplicações completas, incluindo sistemas, APIs e soluções digitais.
+Atuo com Desenvolvimento Web há mais de 12 anos, com experiência que vai de Web Design à construção de aplicações completas, incluindo sistemas, APIs e soluções digitais.
 
 Trabalho com foco em aplicações funcionais, escaláveis e orientadas a resultado, participando de projetos reais como desenvolvedor Full Stack.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas (ADS) e formação em Desenvolvimento de Sistemas Web, sigo aprofundando conhecimentos em desenvolvimento moderno, automação com Python e aplicações com inteligência artificial.
 
-Busco evolução constante e projetos que gerem impacto real.
+Valorizo clareza e consistência no desenvolvimento, com foco em código legível, boas práticas e soluções simples que resolvam o problema de forma eficiente. Busco evolução constante e projetos que gerem impacto real.
 
 ---
 
-## Stack & Tecnologias
+## 🧩 Stack & Skills
 
 <p>
 
-<strong>Linguagens & Frameworks:</strong><br>
+<strong>Stack Principal:</strong><br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+
+<strong>Linguagens:</strong><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,7 +34,6 @@ Busco evolução constante e projetos que gerem impacto real.
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 <strong>Frontend & Mobile:</strong><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -36,25 +41,23 @@ Busco evolução constante e projetos que gerem impacto real.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <strong>Banco de Dados:</strong><br>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <strong>Ferramentas:</strong><br>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 
 </p>
 
 ---
 
-## Projetos em Evidência
+## 📂 Projetos
 
 <div align="center">
   <a href="https://github.com/skynetsites/hackastore">
@@ -65,12 +68,14 @@ Busco evolução constante e projetos que gerem impacto real.
   </a>
   <a href="https://github.com/skynetsites/cidades-resilientes">
     <img height="103" src="https://github-readme-stats.vercel.app/api/pin/?username=skynetsites&repo=cidades-resilientes&theme=radical&hide_border=true"/>
-  </a>
 </div>
+  </a>
+<br />
+📌 Projetos com foco em aplicações completas, integração de APIs e soluções orientadas a problema.
 
 ---
 
-## Atividade
+## 📈 Atividade
 
 <p align="center">
   <img height="122" src="https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical&count_private=true"/>
@@ -80,29 +85,19 @@ Busco evolução constante e projetos que gerem impacto real.
 
 ---
 
-## Forma de trabalhar
+## 💼 Experiência
 
-- Código limpo e bem estruturado  
-- Foco em soluções simples e eficientes  
-- Organização e versionamento claros  
-- Evolução contínua com base em prática  
-
----
-
-## Sobre os repositórios
-
-Projetos voltados para:
-
-- Aplicações Full Stack completas  
-- Integração com APIs  
-- Estruturação escalável  
-- Evolução técnica contínua  
+- Desenvolvimento de aplicações web completas (front-end e back-end)
+- Criação e integração de APIs REST
+- Estruturação de projetos escaláveis e organizados
+- Manutenção e evolução de sistemas em produção
+- Versionamento e colaboração com Git/GitHub
 
 ---
 
-## Vamos Conectar
+## 🤝 Vamos Conectar
 
-Aberto a conexões e trocas sobre desenvolvimento e construção de soluções.
+Aberto a conexões e conversas sobre desenvolvimento, tecnologia e construção de soluções.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skynetsites/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiasoliveira@skynetsites.com.br)
@@ -110,4 +105,4 @@ Aberto a conexões e trocas sobre desenvolvimento e construção de soluções.
 
 ---
 
-Sempre construindo, testando e evoluindo.
+Foco em construir soluções eficientes, sustentáveis e orientadas a resultado.
