@@ -73,9 +73,9 @@ Busco evolução constante e projetos que gerem impacto real.
 ## Atividade
 
 <p align="center">
-  <img height="120" src="https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical&count_private=true"/>
-  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=skynetsites&theme=radical"/>
-  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skynetsites&layout=compact&theme=radical"/>
+  <img height="122" src="https://github-readme-stats.vercel.app/api?username=skynetsites&show_icons=true&theme=radical&count_private=true"/>
+  <img height="122" src="https://github-readme-streak-stats.herokuapp.com/?user=skynetsites&theme=radical"/>
+  <img height="122" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skynetsites&layout=compact&theme=radical"/>
 </p>
 
 ---
