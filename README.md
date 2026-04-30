@@ -71,7 +71,7 @@ Valorizo clareza e consistência no desenvolvimento, com foco em código legíve
 </div>
   </a>
 <br />
-📌 Projetos com foco em aplicações completas, integração de APIs e soluções orientadas a problema.
+🧩 Projetos com foco em aplicações completas, integração de APIs e soluções orientadas a problema.
 
 ---
 
@@ -105,4 +105,4 @@ Aberto a conexões e conversas sobre desenvolvimento, tecnologia e construção 
 
 ---
 
-Foco em construir soluções eficientes, sustentáveis e orientadas a resultado.
+🎯 Foco em construir soluções eficientes, sustentáveis e orientadas a resultado.
